@@ -4,7 +4,7 @@
 
 ### I don't just use tools. I want to understand how they work.
 
-I'm a computer science student in the **1337 coding school**, learning
+I'm a Moroccan computer science student in the **1337 coding school**, learning
 to build software from the ground up.
 
 I enjoy digging beneath abstractions — understanding what happens in memory, how programs interact with the operating system, and
